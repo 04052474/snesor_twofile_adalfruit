@@ -1,0 +1,2 @@
+# snesor_twofile_adalfruit
+I2C那禮拜的溫濕度程式庫
